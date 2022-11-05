@@ -1,0 +1,43 @@
+
+.cajita{
+    background-color: teal;
+    width: 350px;
+    border: 5px solid greenyellow;
+    margin: 0 auto;
+
+}
+.cajita img{
+    width: 100%;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+
+form input{
+    text-align: center;
+    width: 100px;
+    height: 30px;   
+    display: block;   
+    margin: 2px auto;
+}
+form button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    padding: 20px;
+    display: block;   
+    margin: 15px auto;
+}
+.cajita p{
+    text-align: justify;
+    padding: 20px;
+}
+
+.cajita h2{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 3px dashed blueviolet;
+}
+
